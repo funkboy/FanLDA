@@ -1,4 +1,4 @@
-This example is a simple JAVA implementation of variational expectation maximization inference for latent Dirchlet allocation(LDA) proposed in the original paper paper by David Blei, Andrew Ng, and Michael Jordan: http://www.cs.berkeley.edu/~blei/papers/blei03a.pdf.
+This example is a simple JAVA implementation of variational expectation maximization inference for Latent Dirichlet Allocation(LDA) proposed in the original paper paper by David Blei, Andrew Ng, and Michael Jordan: http://www.cs.berkeley.edu/~blei/papers/blei03a.pdf.
 
 data folder contains a formatted corpus and the original text file of 2245 documents from Associated Press -- acquired from David M. Blei: http://www.cs.princeton.edu/~blei/lda-c/index.html
 
