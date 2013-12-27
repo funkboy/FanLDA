@@ -24,4 +24,4 @@ term; it is not a string.
 
 The main function of Utils.java helps convert a plain text file/a list od plain text file into the formatted data set.
 
-You are free to redistribute and/or modify this code for research and acamedic purpose. Please contact lifuan.seu@gmail.com if you want use this code for publication or commercial use. 
+You are free to redistribute and/or modify this code for research and acamedic purpose. Please contact liufan.seu@gmail.com if you want use this code for publication or commercial use. 
